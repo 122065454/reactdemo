@@ -1,0 +1,131 @@
+.equal-division-item {
+  flex: 1 1 5.25rem;
+  padding: 0.31rem 0;
+}
+.image_4 {
+  width: 2.75rem;
+  height: 2.75rem;
+}
+.list-item {
+  padding: 0 0.063rem 0.97rem;
+}
+.image_9 {
+  border-radius: 0.25rem;
+  width: 6.25rem;
+  height: 6.25rem;
+}
+.group_9 {
+  margin-left: 1rem;
+  flex: 1 1 auto;
+}
+.group_11 {
+  margin-top: 1.81rem;
+}
+.text_8 {
+  color: #000000;
+  font-size: 0.94rem;
+  font-family: 'PingFangSC-Regular';
+  line-height: 1.31rem;
+}
+.text_10 {
+  margin-top: 0.5rem;
+  color: #888888;
+  font-size: 0.81rem;
+  font-family: 'PingFangSC-Regular';
+  line-height: 1.13rem;
+}
+.text_12 {
+  margin-right: 0.19rem;
+  color: #000000;
+  font-size: 1.06rem;
+  font-family: 'PingFangSC-Regular';
+  line-height: 1.5rem;
+}
+.text_14 {
+  margin: 0.25rem 0 0.13rem;
+  color: #888888;
+  font-size: 0.81rem;
+  font-family: 'PingFangSC-Regular';
+  line-height: 1.13rem;
+}
+.text_2 {
+  margin-top: 0.5rem;
+  color: #000000;
+  font-size: 0.81rem;
+  font-family: 'PingFangSC-Regular';
+  line-height: 1.13rem;
+}
+.page {
+  background-color: #ffffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.header {
+  padding: 0.91rem 0.88rem 0.38rem 2.19rem;
+  height: 5.31rem;
+}
+.group_2 {
+  padding: 0.69rem 1.19rem 2.31rem;
+  flex: 1 1 auto;
+  overflow-y: auto;
+}
+.text_1 {
+  margin-top: 1.34rem;
+  align-self: center;
+  color: #000000;
+  font-size: 1.13rem;
+  font-family: 'PingFangSC-Semibold';
+  font-weight: 600;
+  line-height: 1.56rem;
+}
+.image_3 {
+  border-radius: 0.5rem;
+  width: 20.94rem;
+  height: 9.38rem;
+}
+.equal-division {
+  margin-top: 1.69rem;
+}
+.group_7 {
+  margin-top: 1.44rem;
+}
+.text {
+  color: #000000;
+  font-size: 0.94rem;
+  font-family: 'Helvetica';
+  line-height: 1.13rem;
+  letter-spacing: -0.019rem;
+}
+.group_1 {
+  margin: 0.19rem 0 0.22rem;
+}
+.text_7 {
+  align-self: flex-start;
+  color: #000000;
+  font-size: 0.94rem;
+  font-family: 'PingFangSC-Semibold';
+  font-weight: 600;
+  line-height: 1.31rem;
+}
+.list {
+  margin-top: 0.75rem;
+}
+.image {
+  width: 1.06rem;
+  height: 0.69rem;
+}
+.image_1 {
+  margin-left: 0.28rem;
+  width: 1rem;
+  height: 0.69rem;
+}
+.image_2 {
+  margin-left: 0.28rem;
+  width: 1.53rem;
+  height: 0.72rem;
+}
+.list-item:not(:last-of-type) {
+  border-bottom: solid 0.063rem #dddddd;
+}
